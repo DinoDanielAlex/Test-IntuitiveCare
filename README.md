@@ -2,14 +2,35 @@
 
 
 
-<H1>Olá amigos, neste repositório está meus testes para a Empresa IntuitiveCare.</H1>
+<H1>Olá caros leitores, neste repositório está meus testes para a Empresa IntuitiveCare.</H1>
+
+<H3>Testes:</H3>
+
+<h6>Web Scraping
+
+
+
+<h6>Data Transformation
+
+
+
+<h6>Data Base
+
+
+
+<h6>Front-end
+
+
+
+
 
 <H2>LEIA-ME</H2>
 instalar as bibliotecas:
-pip install beautifulsoup4
-pip install requests
-pip install tabula-py
-pip install pandas
+
+* pip install beautifulsoup4
+* pip install requests
+* pip install tabula-py
+* pip install pandas
 
 * Java 8+
 
