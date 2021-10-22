@@ -44,5 +44,5 @@ def baixar_arquivo(url, endereco):
     else:
         resposta.raise_for_status()
 if __name__ == '__main__':
-    baixar_arquivo(sitepdf, '.././ComponenteOrganizacional.pdf')
+    baixar_arquivo(sitepdf, './ComponenteOrganizacional.pdf')
 print("Salvo em: ./Tests_IntuitiveCare/1- Test WebScraping")
